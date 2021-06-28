@@ -1,0 +1,26 @@
+schema={
+    "students": {
+        "title": "test.students",
+        "description": "JSON schema for mysql table \"test.students\"",
+        "type": "object",
+        "properties": {
+            "name": {},
+            "columns": {},
+            "relations": {}
+        },
+        "required": [],
+        "additionalProperties": false
+    },
+    "teachers": {
+        "title": "test.teachers",
+        "description": "JSON schema for mysql table \"test.teachers\"",
+        "type": "object",
+        "properties": {
+            "name": {},
+            "columns": {},
+            "relations": {}
+        },
+        "required": [],
+        "additionalProperties": false
+    }
+}
